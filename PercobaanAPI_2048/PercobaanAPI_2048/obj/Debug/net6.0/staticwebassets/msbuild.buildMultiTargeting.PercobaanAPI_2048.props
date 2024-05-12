@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PercobaanAPI_2048.props" />
+</Project>

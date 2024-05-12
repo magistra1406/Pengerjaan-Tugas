@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PercobaanAPI_2048.props" />
+</Project>
